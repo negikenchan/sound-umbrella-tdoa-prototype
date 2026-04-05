@@ -1,0 +1,12 @@
+We tested how extending PDM microphone cables affects the noise floor.
+
+Up to about 30 cm, the system behaves stably. However, once the cable length exceeds roughly 70 cm, noise starts to increase. Interestingly, the noise does not simply grow with cable length. Instead, it strongly depends on how the cables are arranged and how symmetrical the wiring is.
+
+This indicates that PDM signal quality is influenced more by high-frequency effects such as return paths and electromagnetic coupling than by cable length alone.
+
+In practice, this means that careful wiring design is more important than just keeping cables short.
+
+
+PDM配線の延長に対するノイズ床を測定したところ、30cm程度までは安定であった。
+一方、70cm以上ではノイズの増加が見られたが、その増え方はケーブル長の単純な単調増加では説明できず、配置や左右の非対称条件に依存する挙動が見られた。
+このことから、PDM延長では単なる配線長だけでなく、帰路条件や周辺との結合を含む高周波信号品質が支配的であると考えられる。
